@@ -1,0 +1,8 @@
+C:\Users\bella\source\repos\my-Project1\obj\Debug\my-Project1.csproj.AssemblyReference.cache
+C:\Users\bella\source\repos\my-Project1\obj\Debug\my-Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\bella\source\repos\my-Project1\obj\Debug\my-Project1.csproj.CoreCompileInputs.cache
+C:\Users\bella\source\repos\my-Project1\bin\Debug\my-Project1.exe.config
+C:\Users\bella\source\repos\my-Project1\bin\Debug\my-Project1.exe
+C:\Users\bella\source\repos\my-Project1\bin\Debug\my-Project1.pdb
+C:\Users\bella\source\repos\my-Project1\obj\Debug\my-Project1.exe
+C:\Users\bella\source\repos\my-Project1\obj\Debug\my-Project1.pdb
